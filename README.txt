@@ -1,10 +1,10 @@
-L'FOCOLARE — SITO WEB VERSIONE 4
+L'FOCOLARE — SITO WEB VERSIONE 5
 ================================
 
 Contenuto
 - index.html: sito completo e menu web
 - styles.css: grafica responsive per desktop, tablet e smartphone
-- script.js: menu mobile, animazioni e finestra privacy
+- script.js: menu mobile e animazioni
 - assets/logo-lfocolare.svg: logo ridisegnato in formato vettoriale
 - assets/logo-lfocolare-migliorato.png: logo originale ripulito e ingrandito
 - assets/menu-originale-1.jpg e menu-originale-2.jpg: immagini originali del menu
@@ -28,14 +28,16 @@ Aggiornamenti inclusi
 - Immagini originali del menu consultabili anche dal sito.
 - Sei fotografie originali integrate in hero, sezioni prodotto e gallery.
 - Varianti fotografiche responsive e ottimizzate per ridurre i tempi di caricamento.
+- Footer compatto con collegamenti Facebook e Instagram.
+- Footer semplificato, senza collegamenti o finestre aggiuntive.
 
 Contatti inseriti
 - Telefono e WhatsApp: +39 339 818 3497
 - Indirizzo: Via Castel d'Alfiolo, Padule 29, 06024 Gubbio (PG)
 - Facebook: https://www.facebook.com/lfocolare/?locale=it_IT
+- Instagram: https://www.instagram.com/lfocolare/
 
 Prima della pubblicazione definitiva
 - Verificare con il ristorante prezzi, ingredienti e disponibilità.
 - Integrare l'elenco ufficiale degli allergeni.
-- Inserire i dati legali del titolare nell'informativa privacy.
 - Verificare periodicamente che menu e orari pubblicati siano ancora aggiornati.

@@ -2,7 +2,6 @@
   const header = document.querySelector('[data-header]');
   const toggle = document.querySelector('[data-menu-toggle]');
   const nav = document.querySelector('[data-nav]');
-  const dialog = document.querySelector('[data-privacy-dialog]');
 
   const setHeader = () => header?.classList.toggle('scrolled', window.scrollY > 24);
   setHeader();
@@ -40,12 +39,4 @@
 
   const year = document.querySelector('[data-year]');
   if (year) year.textContent = new Date().getFullYear();
-
-  document.querySelector('[data-privacy-open]')?.addEventListener('click', () => dialog?.showModal());
-  document.querySelector('[data-privacy-close]')?.addEventListener('click', () => dialog?.close());
-  dialog?.addEventListener('click', (event) => {
-    const rect = dialog.getBoundingClientRect();
-    const outside = event.clientX < rect.left || event.clientX > rect.right || event.clientY < rect.top || event.clientY > rect.bottom;
-    if (outside) dialog.close();
-  });
 })();
