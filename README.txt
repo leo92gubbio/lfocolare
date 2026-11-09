@@ -1,4 +1,4 @@
-L'FOCOLARE — SITO WEB VERSIONE 5
+L'FOCOLARE — SITO WEB VERSIONE 8
 ================================
 
 Contenuto
@@ -30,6 +30,8 @@ Aggiornamenti inclusi
 - Varianti fotografiche responsive e ottimizzate per ridurre i tempi di caricamento.
 - Footer compatto con collegamenti Facebook e Instagram.
 - Footer semplificato, senza collegamenti o finestre aggiuntive.
+- Layout smartphone compattato con menu a fisarmonica, immagini e spaziature ottimizzate.
+- Navigazione a viste: viene mostrata una sola sezione principale alla volta, con hash URL e barra mobile fissa.
 
 Contatti inseriti
 - Telefono e WhatsApp: +39 339 818 3497
