@@ -1,15 +1,14 @@
-L'FOCOLARE — SITO WEB VERSIONE 8
+L'FOCOLARE — SITO WEB VERSIONE 9
 ================================
 
 Contenuto
 - index.html: sito completo e menu web
 - styles.css: grafica responsive per desktop, tablet e smartphone
 - script.js: menu mobile e animazioni
-- assets/logo-lfocolare.svg: logo ridisegnato in formato vettoriale
-- assets/logo-lfocolare-migliorato.png: logo originale ripulito e ingrandito
+- assets/logo-lfocolare-originale.png e .webp: nuovo logo fornito, senza modifiche al disegno o ai colori
 - assets/menu-originale-1.jpg e menu-originale-2.jpg: immagini originali del menu
 - assets/photos/: sei fotografie originali ottimizzate in WebP con crop desktop e mobile
-- assets/: logo, menu originale e favicon
+- assets/: nuovo logo originale, menu e favicon
 
 Anteprima locale
 1. Aprire questa cartella nel terminale.
@@ -32,6 +31,7 @@ Aggiornamenti inclusi
 - Footer semplificato, senza collegamenti o finestre aggiuntive.
 - Layout smartphone compattato con menu a fisarmonica, immagini e spaziature ottimizzate.
 - Navigazione a viste: viene mostrata una sola sezione principale alla volta, con hash URL e barra mobile fissa.
+- Riquadro logo della sezione Chi siamo corretto e compatto su smartphone.
 
 Contatti inseriti
 - Telefono e WhatsApp: +39 339 818 3497
